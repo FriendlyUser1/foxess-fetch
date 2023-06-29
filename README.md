@@ -19,4 +19,4 @@ In the console:
 And that's it! 
 On running the script you will recieve an object with data in 5 minute intervals of the past hour.
 
-If you run into any errors, or need different features/time scales, please [open an issue](https://github.com/FriendlyUser1/foxess-fetch/issues).
+If you run into any errors, or need different features/time scales, please [open an issue](https://github.com/FriendlyUser1/foxess-fetch/issues/new).
