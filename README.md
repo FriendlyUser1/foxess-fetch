@@ -2,6 +2,7 @@
 Simple FoxESS data fetching with python
 
 ## Setup
+- Download [here](https://github.com/FriendlyUser1/foxess-fetch/archive/refs/heads/main.zip)
 - Rename `example.config.json` to `config.json`.
 
 In `config.json`:
